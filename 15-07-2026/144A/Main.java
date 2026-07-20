@@ -8,7 +8,7 @@ public class Main {
         int imin = 0, imax = 0;
         int n, a;       
         n = scanner.nextInt();      
-        for (int i = 0; i < n; i++) {
+3        for (int i = 0; i < n; i++) {
             a = scanner.nextInt();           
             if (i == 0) {
                 minn = a;
